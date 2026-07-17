@@ -1099,6 +1099,12 @@ background:linear-gradient(90deg,#ff9800,#ff5722);
 
 }
 
+.purple{
+
+background:linear-gradient(90deg,#9b59ff,#8e44ad);
+
+}
+
 /* ===========================
 CONTENT
 =========================== */
@@ -3194,8 +3200,8 @@ transform:translateY(-6px);
 box-shadow:0 15px 35px rgba(0,212,255,.4);
 
 }
-/* Footer */
-* FOOTER */
+
+/* FOOTER */
 footer{
     margin-top:auto;
     background:#111;
